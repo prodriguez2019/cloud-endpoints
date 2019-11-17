@@ -9,3 +9,5 @@ EXPOSE 8080
 
 CMD ["python", "main.py"]
 
+echo "The time is $(date)."
+
